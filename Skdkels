@@ -33,7 +33,7 @@ local SelectedDisableKey = getgenv().DisableKey
 
 function Notify(tx)
     SG:SetCore("SendNotification", {
-        Title = "Cam Lock Enabled | .gg/tapped",
+        Title = "Cam Lock Enabled | .gg/Moonbeuti.cc",
         Text = tx,
         Duration = 5
     })
